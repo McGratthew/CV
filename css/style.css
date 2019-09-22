@@ -3,10 +3,22 @@ body {
   text-align: center;
 }
 
+.code-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
 div {
   background-color: #f1f4df;
   position: relative;
   padding-top: 50px;
+}
+
+.guitar-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
 }
 
 h1 {
@@ -37,6 +49,13 @@ h3 {
   position: absolute;
   top: 50px;
   right: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
 }
 
 .profile-pic {
